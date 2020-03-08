@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/etraveli/refactoring-java
+	branch = master
+	commit = 552fcdf1947533d9053a25a1002bb11fe54c1461
+	parent = edf879812bfec0aa5680dec39459206896039557
+	method = merge
+	cmdver = 0.4.1
