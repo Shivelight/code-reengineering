@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/lamchau/refactoring-exercise
+	branch = master
+	commit = 3ac44bdf0defd63cdc4eb4a86f46afbb56ed329e
+	parent = 52f3a6bd34deef02dd23e0b31e1bf6366954e880
+	method = merge
+	cmdver = 0.4.1
