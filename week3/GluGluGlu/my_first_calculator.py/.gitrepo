@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/GluGluGlu/my_first_calculator.py
+	branch = master
+	commit = 80d670d2be4e2d846a63bc4e521ba37af5bcc6b8
+	parent = 849874ca8a084164fb0040a68a7cd4b84d3bcaf2
+	method = rebase
+	cmdver = 0.4.1
